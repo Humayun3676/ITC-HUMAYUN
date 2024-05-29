@@ -1,0 +1,416 @@
+body
+{
+    height:100%;
+    background-color: #f5f5f5;
+}
+.top
+{
+    display :inline-flex;
+    width:100%;
+    height: 12%;
+
+}
+.logoimg
+{
+    height: 94%;
+    margin-left: 9%;
+    margin-right: 9%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+
+}
+.lefttop 
+{
+    width:15%;
+    height:120px;
+}
+.namewithlogo
+{
+    width:21%;
+    height: 120px;
+    
+}
+.itcname
+{
+    display: flex;
+     justify-content: center;
+    color: #26246B;
+    margin-bottom: 0;    
+}
+.AC
+{
+    display: flex;
+    justify-content: center;
+    color:#BE2329;
+    margin-top: 0;    
+}
+.emailogo
+{
+    margin-top: 50px;
+    margin-left: 42px;
+    width: 20px;
+}
+.formailtop
+{
+
+    width: 21%;
+    display:inline-flex;
+}
+.mailaddress
+{
+    color: #26246B;
+    margin-left: 5px;
+    margin-top: 31px;
+}
+
+.timelogo
+{
+    margin-top: 50px;
+    margin-left: 42px;
+    width: 20px;
+}
+.fortimingtop
+{
+    justify-content: center;
+
+    width: 21%;
+    display: flex;
+}
+.timings
+{
+    color: #26246B;
+    margin-top: 34px;
+}
+.socialmed
+{
+    display: flex;
+    align-items: center;
+    width:22%;
+}
+.sociomed
+{
+    margin-top: 10%;
+    height: 70%;
+    width: 70%;
+    margin-left: 2%;
+}
+.whasocialico
+{
+    margin-top: 35%;
+    height: 70%;
+    width: 70%;
+    margin-left: 2%;
+}
+.inssocialico
+{
+    margin-top: 10%;
+    height: 70%;
+    width: 70%;
+    margin-left: 2%;
+}
+.facsocialico
+{
+    margin-top: 10%;
+    height: 70%;
+    width: 70%;
+    margin-left: 2%;
+}
+.twomaindiv
+{
+    width: 100%;
+    height:80px;
+    display: inline-flex;
+}
+.leftnav
+{   
+width: 75%;
+align-items: center;
+display: flex;
+}
+.homnav,.frenav,.onsnav,.sernav,.comnav,.abonav
+{
+margin-left: 5%;
+}
+.contus
+{
+    margin-left: 75%;
+    margin-bottom: 0;
+    font-size : 12px;
+}
+.contanu
+{
+    margin-top: 0%;
+    font-size: 36px;;
+}
+.threemaindiv
+{
+    width: 100%;
+    display: inline-flex;
+    height: 350px;
+}
+.threemainleft
+{
+    width: 50%;
+    justify-content:center;
+    align-items: center;
+}
+.threemainright
+{
+    width: 50%;
+    justify-content:center;
+    align-items: center;
+    display: flex;
+}
+
+.pinthreemaindiv
+{
+
+    margin-top: 10px;
+    font-size: xx-large;
+    margin-left: 100px;
+    height: 220px;
+    width: 500px;
+    text-align: justify;
+}
+.hinthreemaindiv
+{
+
+    color: #26246B;
+    margin-top: 50px;
+    margin-bottom: 10px;
+    margin-left: 60px;
+    
+}
+
+.freecorseimg
+{
+    margin-left: 60px;
+    margin-right: 60px;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    width: 500px;
+    height: 300px;
+    border-radius: 5%;
+
+}
+
+.fourmaindiv
+{
+    width: 100%;
+    display: inline-flex;
+    height: 350px;
+}
+
+.fourmainleft
+{
+    width: 50%;
+    justify-content:center;
+    align-items: center;
+    display: flex;
+}
+
+.fourmainright
+{
+    width: 50%;
+    justify-content:center;
+    align-items: center;
+}
+
+.pinfourmaindiv
+{
+
+    margin-top: 10px;
+    font-size: xx-large;
+    margin-left: 100px;
+    height: 220px;
+    width: 500px;
+    text-align: justify;
+}
+.hinfourmaindiv
+{
+    color: #26246B;
+    margin-top: 50px;
+    margin-bottom: 10px;
+    margin-left: 60px;
+    
+}
+
+.serviimg
+{
+    border: 1px solid black;
+    margin-left: 60px;
+    margin-right: 60px;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    width: 500px;
+    height: 300px;
+    border-radius: 5%;
+}
+
+.fivemaindiv
+{
+    width: 100%;
+    display: inline-flex;
+    height: 350px;
+}
+.fivemainleft
+{
+    width: 50%;
+    justify-content:center;
+    align-items: center;
+}
+.fivemainright
+{
+    width: 50%;
+    justify-content:center;
+    align-items: center;
+    display: flex;
+}
+
+.pinfivemaindiv
+{
+
+    margin-top: 10px;
+    font-size: xx-large;
+    margin-left: 100px;
+    height: 220px;
+    width: 500px;
+    text-align: justify;
+}
+.hinfivemaindiv
+{
+
+    color: #26246B;
+    margin-top: 50px;
+    margin-bottom: 10px;  
+    margin-left: 60px;
+    
+}
+
+.onsiteimg
+{
+    margin-left: 60px;
+    margin-right: 60px;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    width: 500px;
+    height: 300px;
+    border-radius: 5%;
+}
+
+.sixmaindiv
+{
+    width: 100%;
+    display: inline-flex;
+    height: 350px;
+}
+
+.sixmainleft
+{
+    width: 50%;
+    justify-content:center;
+    align-items: center;
+    display: flex;
+}
+
+.sixmainright
+{
+    width: 50%;
+    justify-content:center;
+    align-items: center;
+}
+
+.pinsixmaindiv
+{
+
+    margin-top: 10px;
+    font-size: xx-large;
+    margin-left: 100px;
+    height: 220px;
+    width: 500px;
+    text-align: justify;
+}
+
+.hinsixmaindiv
+{
+    color: #26246B;
+    margin-top: 50px;
+    margin-bottom: 10px;
+    margin-left: 60px;
+    
+}
+
+.compimg
+{
+    margin-left: 60px;
+    margin-right: 60px;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    width: 500px;
+    height: 300px;
+    border-radius: 5%;
+}
+
+.felfree
+{
+   margin-top: 0;
+   margin-bottom: 10px;
+   display: flex;
+   justify-content: center;
+}
+
+.adres
+{
+    margin-top: 0;
+    margin-bottom: 2px;
+   display: flex;
+   justify-content: center;
+}
+
+.adresico
+{
+    margin-right: 5px;
+    margin-top: 4px ;
+    height: 12px;
+    width: 7px;
+}
+
+.aboutonbottom
+{
+    margin-top: 0;
+    display: flex;
+    justify-content: center;
+}
+
+
+.bottomhome
+{
+    display: inline-flex;
+    width:100%;
+    height:80px;
+
+}
+.bottomhomeleft
+{
+     width:95%
+}
+.bottomhomeright
+{
+     width:5%;
+}
+
+.gototoppic
+{
+    height:65px;
+    width:65px;
+}
+
+img:hover
+{
+    transform: scale(1.1);
+}
+
+a:hover
+{
+transform: scale(1.2);
+}
