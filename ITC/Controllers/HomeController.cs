@@ -18,10 +18,31 @@ namespace ITC.Controllers
             return View();
         }
 
-        public IActionResult Privacy()
+        public IActionResult Aboutus()
         {
             return View();
         }
+
+        public IActionResult computerlaptop()
+        {
+            return View();
+        }
+
+        public IActionResult freecourses()
+        {
+            return View();
+        }
+
+        public IActionResult services()
+        {
+            return View();
+        }
+
+        public IActionResult onsitecourses()
+        {
+            return View();
+        }
+
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
